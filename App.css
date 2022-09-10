@@ -1,0 +1,17 @@
+#main{
+  margin:auto;
+  text-align: center;
+  margin-top: 50px;
+  
+}
+
+#main select{
+  padding:10px;
+}
+#mood-indicator{
+  width:300px;
+  height:300px;
+  border:1px solid black;
+  margin:auto;margin-top: 50px;
+padding: 50px;
+}
